@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "\"# MEAN-BLOG-APP\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilBabu94/MEAN-BLOG-APP.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "angular"
+  ],
+  "author": "Akhil Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilBabu94/MEAN-BLOG-APP/issues"
+  },
+  "homepage": "https://github.com/AkhilBabu94/MEAN-BLOG-APP#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
